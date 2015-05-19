@@ -47,7 +47,11 @@ public class MainActivity extends Activity implements OnMapReadyCallback {
 
         MapFragment mapFragment = (MapFragment) getFragmentManager()
                 .findFragmentById(R.id.map);
+<<<<<<< HEAD
         mapFragment.getMapAsync(this);
+=======
+        //mapFragment.getMapAsync(this);
+>>>>>>> origin/master
     }
 
     @Override
@@ -57,10 +61,17 @@ public class MainActivity extends Activity implements OnMapReadyCallback {
         map.setMyLocationEnabled(true);
         map.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney, 13));
 
+<<<<<<< HEAD
         map.addMarker(new MarkerOptions()
                 .title("Sydney")
                 .snippet("The most populous city in Australia.")
                 .position(sydney));
+=======
+//        map.addMarker(new MarkerOptions()
+//                .title("Sydney")
+//                .snippet("The most populous city in Australia.")
+//                .position(sydney));
+>>>>>>> origin/master
     }
 }
 
