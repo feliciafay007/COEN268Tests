@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather_sensor">WeatherSensor</string>
+    <string name="title_activity_shake_sensor">ShakeSensor</string>
+    <string name="title_activity_shake_sensor2">ShakeSensor2</string>
+</resources>

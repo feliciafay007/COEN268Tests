@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/COEN268Tests.iml" filepath="$PROJECT_DIR$/COEN268Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitylifecyclea/activitylifecyclea.iml" filepath="$PROJECT_DIR$/activitylifecyclea/activitylifecyclea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fftest1/fftest1.iml" filepath="$PROJECT_DIR$/fftest1/fftest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentdemo/intentdemo.iml" filepath="$PROJECT_DIR$/intentdemo/intentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylocationsonmap/mylocationsonmap.iml" filepath="$PROJECT_DIR$/mylocationsonmap/mylocationsonmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensordemo/sensordemo.iml" filepath="$PROJECT_DIR$/sensordemo/sensordemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showmylocation/showmylocation.iml" filepath="$PROJECT_DIR$/showmylocation/showmylocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinnerff/spinnerff.iml" filepath="$PROJECT_DIR$/spinnerff/spinnerff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uidemo/uidemo.iml" filepath="$PROJECT_DIR$/uidemo/uidemo.iml" />
+    </modules>
+  </component>
+</project>

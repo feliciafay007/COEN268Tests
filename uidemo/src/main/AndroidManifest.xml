@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.scu.edu.uidemo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ListViewIFirst"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".ListViewSecond"
+            android:label="@string/title_activity_list_view_second" >
+        </activity>
+        <activity
+            android:name=".AutoCompleteFirst"
+            android:label="@string/title_activity_auto_complete_first"
+            android:parentActivityName = ".ImageViewFirst">
+            <meta-data
+                android:name = "android.support.PARENT_ACTIVITY"
+                android:value=".ImageViewFirst"/>
+        </activity>
+        <activity
+            android:name=".ImageViewFirst"
+            android:label="@string/title_activity_image_view_first" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ContextualMenu"
+            android:label="@string/title_activity_contextual_menu"
+            android:parentActivityName = ".ListViewIFirst">
+            <meta-data
+                android:name = "android.support.PARENT_ACTIVITY"
+                android:value=".ListViewIFirst" />
+        </activity>
+    </application>
+
+</manifest>
