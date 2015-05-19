@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UIDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_view_second">ListViewSecond</string>
+    <string name="title_activity_auto_complete_first">AutoCompleteFirst</string>
+    <string name="title_activity_image_view">ImageView</string>
+    <string name="title_activity_image_view_first">ImageViewFirst</string>
+    <string name="title_activity_conceptual_menu">ConceptualMenu</string>
+    <string name="title_activity_contextual_menu">ContextualMenu</string>
+</resources>
