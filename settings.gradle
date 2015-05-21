@@ -1,1 +1,1 @@
-include ':app', ':fftest1', ':activitylifecyclea', ':uidemo', ':spinnerff', ':sensordemo', ':intentdemo', ':showmylocation', ':mylocationsonmap'
+include ':app', ':fftest1', ':activitylifecyclea', ':uidemo', ':spinnerff', ':sensordemo', ':intentdemo', ':showmylocation', ':mylocationsonmap', ':dogplaydate'

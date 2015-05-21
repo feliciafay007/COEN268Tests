@@ -9,7 +9,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
         android:onClick="onClick_Building"
-        android:text="Library" />
+        android:text="Library"/>
     <Button
         android:id="@+id/btnUniv"
         android:layout_width="wrap_content"
