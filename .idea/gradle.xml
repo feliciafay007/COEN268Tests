@@ -12,13 +12,16 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitylifecyclea" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/contentproviderdemo" />
             <option value="$PROJECT_DIR$/dogplaydate" />
             <option value="$PROJECT_DIR$/fftest1" />
             <option value="$PROJECT_DIR$/intentdemo" />
+            <option value="$PROJECT_DIR$/largeimageloading" />
             <option value="$PROJECT_DIR$/mylocationsonmap" />
             <option value="$PROJECT_DIR$/sensordemo" />
             <option value="$PROJECT_DIR$/showmylocation" />
             <option value="$PROJECT_DIR$/spinnerff" />
+            <option value="$PROJECT_DIR$/sqlitedatabasedemo" />
             <option value="$PROJECT_DIR$/uidemo" />
           </set>
         </option>

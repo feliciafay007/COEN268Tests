@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DogPlayDate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="welcome">Dog Play Date</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+    <string name="signup">Sign Up</string>
+    <string name="facebook_app_id">Log in with Facebook</string>
+    <string name="fn">First Name</string>
+    <string name="ln">Last Name</string>
+    <string name="email">Email</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_menu_example">MenuExampleActivity</string>
+    <string name="title_activity_person_profilejava">person_profilejava</string>
+</resources>
