@@ -1,1 +1,1 @@
-include ':app', ':fftest1', ':activitylifecyclea', ':uidemo', ':spinnerff', ':sensordemo', ':intentdemo', ':showmylocation', ':mylocationsonmap', ':dogplaydate', ':largeimageloading', ':sqlitedatabasedemo', ':contentproviderdemo'
+include ':app', ':fftest1', ':activitylifecyclea', ':uidemo', ':spinnerff', ':sensordemo', ':intentdemo', ':showmylocation', ':mylocationsonmap', ':dogplaydate', ':largeimageloading', ':sqlitedatabasedemo', ':contentproviderdemo', ':hw4mapmarker3'
